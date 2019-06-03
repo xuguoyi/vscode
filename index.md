@@ -20,9 +20,8 @@
 
 ## 插件安装
 1. Chinese: 汉化包
-2. HTML Boilerplate: HTML模板
-3. Auto Rename Tag: 自动修改标签
-4. CSS Peek: html和css关联
-5. prettier: 代码格式化
-6. Icon Fonts: 字体图标
-7. Auto CLose Tag: 自动闭合标签
+2. Auto Rename Tag: 自动修改标签
+3. CSS Peek: html和css关联
+4. prettier: 代码格式化
+5. Icon Fonts: 字体图标
+6. Auto CLose Tag: 自动闭合标签
